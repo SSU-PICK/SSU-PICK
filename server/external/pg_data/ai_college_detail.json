@@ -1,0 +1,375 @@
+{
+ "type": "SSUPICK_DB10D_AI_COLLEGE_DETAIL_AUDIT_V1",
+ "as_of": "2026-11-17T14:38:05.934913+09:00",
+ "count": 9,
+ "auto_approved": 0,
+ "date_hints_are_verified_deadlines": false,
+ "items": [
+  {
+   "id": "ssu_ai_college:1101",
+   "source_id": "1101",
+   "title": "[2026-2학기 숭실평화통일스쿨 안내]",
+   "published_at_from_listing": "2026-11-12",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1101",
+   "db10c_lane": "NOTICE_REVIEW",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "한반도평화와통일 과목의 2박 3일 연수 수업 <숭실평화통일스쿨>을 아래와 같이 안내드립니다. 1.스쿨일정: 11월 18일(수) 08:30 ~ 11월 20일(금) 19:30 2.집결일시: 11월 18일(수) 08시 30분 (9시 이후 지각, 9시 30분 이후 등록 마감) 3.집결장소: 벤처중소기업센터 309호 4.참여대상: AI소프트웨어학부 26학번 신입생 및 유고결석사유 차수변경자 5.준비물: 세면도구, 여벌옷 등 개인짐, 필기구, 첫 날 운동화 착용 필수 6.문의: 베어드학부대학 교양교육운영팀 02) 820-0725 / min369@ssu.ac.kr • 「 한반도평화와통일 」 은 온라인 이론수업(50%)과 오프라인 연수 <숭실평화통일스쿨>(50%)로 구성된 온오프라인 병행 수업 • 첫날 교내-오두산통일전망대-숭실통일리더십연수원(문경)으로 이동, 2박3일 간 진행 • <한반도평화와통일>을 수강하는 26학번 학생 모두 반드시 참석 • 해당일, 피치 못할 사정(관혼상제 등 유고결석 해당 사유)발생시 증빙자료 첨부하여 11월 17일(화) 24시까지 메일로 관련 내용 송부하면 개별 연락 예정 • 1주차, 5주차, 9주차 영상은 반드시 수강 후 스쿨 참석 • 유고결석은 스쿨 종료 후 참석자에 한하여 일괄 신청 됨(개별 신청 불가)",
+   "body_candidate_length": 636,
+   "body_title_matched": false,
+   "date_hints_unverified": [],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 636,
+     "score": 46.36,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "한반도평화와통일 과목의 2박 3일 연수 수업 <숭실평화통일스쿨>을 아래와 같이 안내드립니다. 1.스쿨일정: 11월 18일(수) 08:30 ~ 11월 20일(금) 19:30 2.집결일시: 11월 18일(수) 08시 30분 (9시 이후 지각, 9시 30분 이후 등록 마감) 3.집결장소: 벤"
+    }
+   ],
+   "html_sha256": "6180c50dd8f503f569fc5cbb2449592153588e63244d32d105a558f06a8e6235",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1100",
+   "source_id": "1100",
+   "title": "[2027년 2월 졸업예정자] 졸업서류제출 안내",
+   "published_at_from_listing": "2026-11-11",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1100",
+   "db10c_lane": "NOTICE_REVIEW",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "2027년 2월 졸업 예정자 졸업서류 제출을 아래와 같이 안내해 드리니 일정에 맞추어 제출 부탁드립니다. 1. 제출 기한: 11월 23일(월) ~ 12월 2일(수) 16시까지​ *12/17(목)부터 12/23(수)까지 2차 제출 받을 예정이니 서류가 준비가 되지 않은 학생은 2차 제출 기간에 제출해주시기 바랍니다. 2. 제출 방법 가. ★방문 제출★ 나. 제출 장소: 창의관 102호 졸업서류제출창구 다. 방문 시간: 제출기한 내 월~금 매일 10시부터 16시까지(12:20 ~ 13:20 제외) * 제출 기한 전/후로는 받지 않으니 반드시 기한 확인 후 기한 내 제출 바랍니다. 3. 제출서류 가. 졸업 자격심사신청서 1부(첨부파일). 나. 전공 자격요건 증빙서류 1부. 다. 영어 자격요건 증빙서류 1부. 4. 참고사항(반드시 숙지 요망) 가. 27년 2월 졸업을 희망하는 학생은 AI소프트웨어학부 졸업자격심사신청과 학교 학사팀에서 안내하는 졸업 확정신고를 모두 완료해야 졸업 가능합니다. 둘 중 하나라도 미완료시에는 졸업이 불가합니다. *수료, 졸업을 선택하는 경우 졸업서류제출 전에 졸업확정신고를 먼저 진행할 수 있습니다. *학사학위취득유예를 선택하시는 경우 12월 7일 이후에 확정신고 진행해야 합니다.(졸업확정신고 1차 기간: 2026. 12. 01.(화)~12. 18.(금) 23:59) 나. 졸업사정표 내 [졸업논문 및 졸업 종합시험] 항목 충족 표기는 12월 7일(월) 이후에 본인 졸업사정표 확인 후 이상있을 경우 학부 사무실로 문의 바랍니다. 다. 토익 시험의 경우 12월 13일에 시행하여 12월 22일에 성적 발표하는 시험까지만 인정하며, 해당 시험 보는 학생은 2차 기간 내 서류 제출해 주시기 바랍니다. 토익 외 다른 시험도 12월 23일 이전까지 성적 발표되어 2차 기한 내 서류를 제출할 수 있는 경우에만 인정됩니다. 라. 기존에 졸업심사신청서 제출하여 졸업사정표에 [졸업논문 및 졸업 종합시험] 항목이 Y(충족)로 표기되어 있는 경우, 서류 재 제출 없이 졸업 원하는 학기에 졸업 확정신고만 진행하시면 됩니다. 바. 전공자격요건 중 졸업논문을 희망하는 학생은 반드시 학부사무실에 사전에 방문하거나 연락바랍니다. 사. 기타 문의사항: AI소프트웨어학부 사무실(02-850-1691) 5. AI소프트웨어학부 졸업자격 요건: 졸업 요이수 학점을 충족한 학생이 ‘전공 자격요건, 영어 자격요건, 세부전공(최소 1개 트랙 이상) 이수’ 모두 충족 시 졸업 가능 *만료기간이 표기되어 있는 증빙서류의 경우 27년 2월 28일 이전에 만료되는 점수는 인정하지 않습니다. 예) 27/02/28 만료되는 성적은 불인정, 27/03/01 만료되는 성적은 인정 가. 전공 자격요건 (택1) ① 졸업논문(소속학부 전임교수님 중 1분이 교신저자, 학회지 게재) - 전국 규모 이상의 학회나 논문지에 발표되어야 하며, 발표된 논문에는 AI소프트, AI융합, 소프트웨어학부 소속 지도 교수님이 교신저자로 명시되어 있어야 한다. - 해당 논문의 제1저자부터 제3저자에 들어있는 학생만 졸업 논문으로 인정받을 수 있다(외국인 학생도 동일 적용). ② 정보처리기사 자격증 또는 한국산업인력공단에서 인정한 동급의 외국 자격증 획득 ③ ACM-ICPC Asia Regional 본선 진출(증빙자료: 상장 사본 제출) ④ AI소프트웨어학부 주관 비교과 수상자 - AI소프트웨어학부 이전 수상 실적도 인정(소프트웨어학부 소프트웨어 공모전 / AI융합학부 AI융합경진대회 수상자, 상장 사본 제출) ⑤ 전공설계과목 (연속성설계과목 캡스톤 관련 2과목, 정보보호프로젝트 2과목) 중 2과목 이상 이수(졸업신청서에만 표기, 증빙서류 없음) ⑥ TOPCIT 수준2 이상 획득 나. 영어 자격 요건 (택1) ① TOEIC 시험에서 600점 이상 (증빙자료: 성적표 사본 제출) ② TOEFL IBT 64점 이상 (증빙자료: 성적표 사본 제출) ③ NEW TEPS 228점 이상 (증빙자료: 자격증 사본 제출) ④ OPIC IM2 이상 획득(증빙자료: 성적표 사본) ⑤ TOEIC SPEAKING Level5(IM등급/110점) 이상 획득 (증빙자료: 성적표 사본) ⑥ 기타 널리 사용되는 영어평가시험에서 이와 상응하는 점수를 획득. 단, 상응하는 점수는 응시자가 구체적인 증거에 근거하여 제시하여야 함(환산 점수표 제출 등). ⚠ 졸업자격심사신청서 상 허위 사실 기재 허위 증빙서류 제출일 경우 졸업이 취소될 수 있으며, 향후 불이익을 받을 수 있음",
+   "body_candidate_length": 2203,
+   "body_title_matched": false,
+   "date_hints_unverified": [
+    {
+     "date_text": "12/17",
+     "context": "제출 기한: 11월 23일(월) ~ 12월 2일(수) 16시까지​ *12/17(목)부터 12/23(수)까지 2차 제출 받을 예정이니 서류가 준비가"
+    },
+    {
+     "date_text": "12/23",
+     "context": "23일(월) ~ 12월 2일(수) 16시까지​ *12/17(목)부터 12/23(수)까지 2차 제출 받을 예정이니 서류가 준비가 되지 않은 학생은 "
+    },
+    {
+     "date_text": "2026. 12. 01",
+     "context": "월 7일 이후에 확정신고 진행해야 합니다.(졸업확정신고 1차 기간: 2026. 12. 01.(화)~12. 18.(금) 23:59) 나. 졸업사정표 내 [졸업논"
+    },
+    {
+     "date_text": "12. 18",
+     "context": "야 합니다.(졸업확정신고 1차 기간: 2026. 12. 01.(화)~12. 18.(금) 23:59) 나. 졸업사정표 내 [졸업논문 및 졸업 종합시험"
+    },
+    {
+     "date_text": "27/02/28",
+     "context": "27년 2월 28일 이전에 만료되는 점수는 인정하지 않습니다. 예) 27/02/28 만료되는 성적은 불인정, 27/03/01 만료되는 성적은 인정 가."
+    },
+    {
+     "date_text": "27/03/01",
+     "context": " 인정하지 않습니다. 예) 27/02/28 만료되는 성적은 불인정, 27/03/01 만료되는 성적은 인정 가. 전공 자격요건 (택1) ① 졸업논문(소속"
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 2203,
+     "score": 62.03,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "2027년 2월 졸업 예정자 졸업서류 제출을 아래와 같이 안내해 드리니 일정에 맞추어 제출 부탁드립니다. 1. 제출 기한: 11월 23일(월) ~ 12월 2일(수) 16시까지​ *12/17(목)부터 12/23(수)까지 2차 제출 받을 예정이니 서류가 준비가 되지 않은 학생은 2차 제출 "
+    }
+   ],
+   "html_sha256": "c5573d8c4c80942d06af14ad1c9604c52a454f77a8ca2171f747ee998539bb3d",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1090",
+   "source_id": "1090",
+   "title": "AI 활용 윤리 가이드라인(교육분야) 제정 및 시행 안내",
+   "published_at_from_listing": "2026-10-15",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1090",
+   "db10c_lane": "RESOURCE_LINK",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "인공지능 (AI) 기술의 확산으로 교육 전반에서 AI 활용이 일상화됨에 따라, 구성원의 책임 있고 효과적인 AI 활용을 지원하기 위해 「숭실대학교 AI 활용 윤리 가이드라인(교육분야)」을 다음과 같이 시행합니다. 가. 가이드라인명: 숭실대학교 AI 활용 윤리 가이드라인(교육분야) 나. 시행일: 2026. 10. 1. 다. 주요 특징 1) AI의 일률적 금지·통제보다 교육목적에 따른 책임 있는 AI 활용을 지원하는 가이드라인 2) 본교의 AI 비전인 'AI NATIVE'를 반영한 숭실형 가이드라인 3) 교과목의 특성에 따라 적용할 수 있는 AI 활용 수준(Level 0~2) 제시 4) 교수자·학습자가 교육 현장에서 활용할 수 있도록 강의계획서 표준안, AI 활용 공개문, 체크리스트 등 실천 중심의 가이드 제공 가이드라인은 붙임파일을 참고해주시기 바라며, 본 가이드라인은 기술과 정책 변화에 따라 지속적으로 검토·보완할 예정이니 참고해주시기 바랍니다. 감사합니다. 학부 사무실 드림",
+   "body_candidate_length": 496,
+   "body_title_matched": false,
+   "date_hints_unverified": [
+    {
+     "date_text": "2026. 10. 1",
+     "context": "명: 숭실대학교 AI 활용 윤리 가이드라인(교육분야) 나. 시행일: 2026. 10. 1. 다. 주요 특징 1) AI의 일률적 금지·통제보다 교육목적에 따른"
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 496,
+     "score": 44.96,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "인공지능 (AI) 기술의 확산으로 교육 전반에서 AI 활용이 일상화됨에 따라, 구성원의 책임 있고 효과적인 AI 활용을 지원하기 위해 「숭실대학교 AI 활용 윤리 가이드라인(교육분야)」을 다음과 같이 시행합니다. 가. 가이드라인명: 숭실대학교 AI 활용 윤리 가이드라인(교육분야) 나. "
+    }
+   ],
+   "html_sha256": "b65eb86d56c9674d2ee8e3c16d19518f5e5f1d2a71c635ddb81ce3c43b620e52",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1067",
+   "source_id": "1067",
+   "title": "AI소프트웨어학부 소속변경(전과) 신청 가이드",
+   "published_at_from_listing": "2026-08-11",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1067",
+   "db10c_lane": "RESOURCE_LINK",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "AI소프트웨어학부 소속변경(전과) 신청 가이드를 안내 드립니다. 1. 신청 자격: 소프트웨어학부 및 AI융합학부 소속 재학생(초과학기 가능) 2. 신청 불가 사유 - 소속 변경 승인되는 학기 기준 졸업,수료, 휴학생 *승인을 원하는 학기에 휴학일 경우 승인 불가 3.신청 방법 - 일정: 매학기 15-16주차가 종료된 이후 - 방법: 각 학부 홈페이지 공지사항에 신청방법 안내 - 반영 시기: 신청자에 한해 방학 중 작업 → 학기 시작과 동시에 학적에 반영됨 감사합니다.",
+   "body_candidate_length": 263,
+   "body_title_matched": true,
+   "date_hints_unverified": [
+    {
+     "date_text": "15-16",
+     "context": "하는 학기에 휴학일 경우 승인 불가 3.신청 방법 - 일정: 매학기 15-16주차가 종료된 이후 - 방법: 각 학부 홈페이지 공지사항에 신청방법 "
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 263,
+     "score": 60.63,
+     "title_found": true,
+     "navigation_hits": 0,
+     "excerpt": "AI소프트웨어학부 소속변경(전과) 신청 가이드를 안내 드립니다. 1. 신청 자격: 소프트웨어학부 및 AI융합학부 소속 재학생(초과학기 가능) 2. 신청 불가 사유 - 소속 변경 승인되는 학기 기준 졸업,수료, 휴학생 *승인을 원하는 학기에 휴학일 경우 승인 불가 3.신청 방법 - 일정:"
+    }
+   ],
+   "html_sha256": "8a0b894c08bcf1896d9629ae96d4708ec3a77ae91134593ac45c692930bbbaf9",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1007",
+   "source_id": "1007",
+   "title": "졸업 요이수 학점 안내",
+   "published_at_from_listing": "2026-03-04",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1007",
+   "db10c_lane": "RESOURCE_LINK",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "안녕하세요. 학부 사무실입니다. 입학년도별 졸업 요이수 학점 기준과 관련하여 다음과 같이 정정 안내 드립니다. 기존 설명회에서는 AI소프트웨어학부 교과과정에 따라 입학년도와 관계없이 전공기초 12학점 이수로 안내드린 바 있습니다. 그러나 이후 학사팀 검토 결과, 전공기초 이수 기준은 반드시 입학년도별 기준을 적용해야 함이 확인되었습니다. 이에 따라 졸업 이수학점 기준을 아래와 같이 정정하여 안내 드립니다. 1. 입학년도별 졸업 요이수 학점 : 전기 학점 입학년도별 기준 적용 2. 유의사항 가. 현재 AI소프트웨어학부 교과과정 상 전공기초는 12학점으로 편성되어 있으나, 2026학년도 이전 입학자의 경우 입학년도별 전공기초 기준 학점을 충족 해야 합니다. * 현재 졸업사정의 전공기초, 전공선택은 3월 중순 이후 입학년도 기준에 맞게 정정 예정 나. 수강 가능한 전공기초가 부족할 경우 전공 중 선택하여 추가로 이수한 후 이수구분변경을 통해 전공기초로 변경해야 합니다. 다. 졸업사정표 확인 시 전공선택을 전공기초로 변경할 경우, 전공 학점이 변경되니 유의하시기 바랍니다. 안내 내용이 변경되어 혼란을 드린 점 죄송합니다. 학생들의 양해를 부탁 드립니다. 감사합니다. - 학부 사무실 드림",
+   "body_candidate_length": 612,
+   "body_title_matched": false,
+   "date_hints_unverified": [],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 612,
+     "score": 46.12,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "안녕하세요. 학부 사무실입니다. 입학년도별 졸업 요이수 학점 기준과 관련하여 다음과 같이 정정 안내 드립니다. 기존 설명회에서는 AI소프트웨어학부 교과과정에 따라 입학년도와 관계없이 전공기초 12학점 이수로 안내드린 바 있습니다. 그러나 이후 학사팀 검토 결과, 전공기초 이수 기준은 반"
+    }
+   ],
+   "html_sha256": "78b3b75bc95689f55a803faef1a76a5b076e773ee3df66fae14effbf92cd9b60",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:998",
+   "source_id": "998",
+   "title": "졸업사정 및 이전 학부 전공학점 인정 관련 공지",
+   "published_at_from_listing": "2026-02-10",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/998",
+   "db10c_lane": "RESOURCE_LINK",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "안녕하세요. 학부 사무실입니다. 소프트웨어학부 및 AI융합학부에서 AI소프트웨어학부로 소속 변경한 학생들의 경우 학교 시스템 상 '소속 변경'이 아닌 '전과'로 인정되기 때문에 현재 졸업사정표는 '전과' 규정에 따라 이전 학부 전공학점이 일반선택으로 변경되어 있는 것으로 확인되었습니다. 학부 사무실에서는 수강신청시 혼선을 방지하기 위하여 학생들의 졸업사정표를 \"25-2학기까지 이수한 전공학점이 인정된 이전 시점\"으로 복원작업을 진행 중입니다. 19일까지 복원될 수 있도록 진행 예정이오니 수강신청 계획시 참고 부탁드립니다. 수강신청이 모두 종료된 이후 전과학점 인정 시기(3월 중순으로 예정)에 맞춰 이전 학부(소프트웨어학부, AI융합학부)의 전공 학점 인정처리 작업이 진행될 예정입니다. 4월 중순 경 본인 졸업 사정표를 확인해보시고, 이상이 있는 경우 학부 사무실(ai@ssu.ac.kr)로 문의바랍니다. 감사합니다. - 학부 사무실 드림",
+   "body_candidate_length": 473,
+   "body_title_matched": false,
+   "date_hints_unverified": [
+    {
+     "date_text": "25-2",
+     "context": "무실에서는 수강신청시 혼선을 방지하기 위하여 학생들의 졸업사정표를 \"25-2학기까지 이수한 전공학점이 인정된 이전 시점\"으로 복원작업을 진행 중"
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 473,
+     "score": 44.73,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "안녕하세요. 학부 사무실입니다. 소프트웨어학부 및 AI융합학부에서 AI소프트웨어학부로 소속 변경한 학생들의 경우 학교 시스템 상 '소속 변경'이 아닌 '전과'로 인정되기 때문에 현재 졸업사정표는 '전과' 규정에 따라 이전 학부 전공학점이 일반선택으로 변경되어 있는 것으로 확인되었습니다."
+    }
+   ],
+   "html_sha256": "c2123660618749d1d7bbeec4c97cf1ca61c7bf323411c0994155efe7ffc69201",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:995",
+   "source_id": "995",
+   "title": "AI소프트웨어학부 교과과정 안내",
+   "published_at_from_listing": "2026-02-04",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/995",
+   "db10c_lane": "RESOURCE_LINK",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "안녕하세요. 학부 사무실입니다. AI소프트웨어학부 교과과정표를 공유드립니다. 관련하여 문의사항이 있으신 경우 02-850-1691로 연락바랍니다. 감사합니다.",
+   "body_candidate_length": 88,
+   "body_title_matched": false,
+   "date_hints_unverified": [],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 88,
+     "score": 40.88,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "안녕하세요. 학부 사무실입니다. AI소프트웨어학부 교과과정표를 공유드립니다. 관련하여 문의사항이 있으신 경우 02-850-1691로 연락바랍니다. 감사합니다."
+    }
+   ],
+   "html_sha256": "185cbbf0a167d47acecc42ce08709015bd9b5085d1a69fdcbeb92ad5048d4148",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1099",
+   "source_id": "1099",
+   "title": "Cryptography for Security & Privacy 연구실(지도교수: 하진철)에서 학부연구생을 모집합니다.",
+   "published_at_from_listing": "2026-11-10",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1099",
+   "db10c_lane": "NOTICE_REVIEW",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "Cryptography for Security & Privacy 연구실(지도교수: 하진철)에서 학부연구생을 모집합니다. 신규 연구실을 함께 꾸려나갈 학생을 찾고 있으니 관심 있는 학생은 지원 및 문의 부탁드립니다. 연구실 홈페이지: https://ssu-cryptsplab.github.io/ 모집 인원: 2-3명 모집 대상: 본교 2-4학년 재학생 (관련 전공 타학과 가능) 수행 내용: 동형암호 관련 프로젝트 참여 기간: 겨울 방학 기간, 이후 연장 지원요건: - C/C++ 프로그래밍 가능 - 동형암호 기초 공부에 성실히 참여할 수 있는 학생 근무 장소: 창의관 303호 학생 연구실 자리 제공 문의 및 지원: jincheol.ha@ssu.ac.kr (11/30까지) - 간단한 자기소개, 지원 동기, 학부 성적 제출",
+   "body_candidate_length": 404,
+   "body_title_matched": true,
+   "date_hints_unverified": [
+    {
+     "date_text": "2-3",
+     "context": "ps://ssu-cryptsplab.github.io/ 모집 인원: 2-3명 모집 대상: 본교 2-4학년 재학생 (관련 전공 타학과 가능) 수"
+    },
+    {
+     "date_text": "2-4",
+     "context": "plab.github.io/ 모집 인원: 2-3명 모집 대상: 본교 2-4학년 재학생 (관련 전공 타학과 가능) 수행 내용: 동형암호 관련 프"
+    },
+    {
+     "date_text": "11/30",
+     "context": "자리 제공 문의 및 지원: jincheol.ha@ssu.ac.kr (11/30까지) - 간단한 자기소개, 지원 동기, 학부 성적 제출"
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 404,
+     "score": 62.04,
+     "title_found": true,
+     "navigation_hits": 0,
+     "excerpt": "Cryptography for Security & Privacy 연구실(지도교수: 하진철)에서 학부연구생을 모집합니다. 신규 연구실을 함께 꾸려나갈 학생을 찾고 있으니 관심 있는 학생은 지원 및 문의 부탁드립니다. 연구실 홈페이지: https://ssu-cryptsplab.github."
+    }
+   ],
+   "html_sha256": "5545e42321fdc65d0fd85de9e4c8f2e1626cc98a4e4d426a7135818cb423e393",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  },
+  {
+   "id": "ssu_ai_college:1098",
+   "source_id": "1098",
+   "title": "AI대학 국제 IT 산업시찰 추가모집 안내(~11.10(화)까지)",
+   "published_at_from_listing": "2026-11-09",
+   "detail_url": "https://ai.ssu.ac.kr/board/notice/1098",
+   "db10c_lane": "TIME_SENSITIVE_REVIEW",
+   "fetch_status": "HTTP_200_HTML",
+   "extraction_status": "BODY_CANDIDATE_REVIEW",
+   "http_status": 200,
+   "body_selector": ".ck-content",
+   "body_candidate": "AI대학에서 2026학년도 국제 산업 IT 시찰 참여자를 추가 모집하니 관심있는 학생은 신청해주시기 바랍니다. 1. 산업시찰 상세 가. 기간 : 2027.01.18.(월) ~ 22(금) (4박5일) 나. 지역 : 중국 상해 및 항저우 다. 지원 내역 : 연수 경비 일체(여권 발급 등의 개인 경비는 지원하지 않음) 라. 세부 일정 일자 세부 일정 1.18(월) 인천 출발 - 항저우 도착 서호관광 및 서호유람선 청하방 옛거리 관광 1.19(화) 대한민국 임시정부 항저우 청사 저장대학교 또는 항저우 전자과기대학교 캠퍼스 투어 1.20(수) 지리지커(중국 최대 민영 자동차 그룹) 수향마을 주가각 및 남경로 탐방 휴머노이트로봇이 일하는 DQ 아이스크림가게 외타야경 및 유람선 투어 1.21(목) 상해 디즈니랜드 1.22(금) 상하이 과학기술관 휴머노이드 현식센터 치린 로봇 훈련장 상해 출발 – 인천 도착 2. 신청 자격 : AI소프트웨어학부, 소프트웨어학부, AI융합학부 재학생 가. 해외여행에 결격 사유가 없으며(남학생의 경우 병역사항 확인 요망) 여권/비자 발급이 가능한 자 ※ 여권은 복수여권이어야 하며, 유효기간은 귀국일 기준 최소 6개월 이상 남아 있어야 함. 6개월 미만 남아 있을 경우 재발급을 권장함 나. AI소프트웨어학부, 소프트웨어학부, AI융합학부 3, 4학년 재학생 우선 선발 다. 추가 선발 인원 : 4명 ※ 학부 상황에 의해 변경될 수 있습니다. 3. 신청 기간 : 11월 9일(월) ~ 11월 10일(화)까지 4. 신청 방법 : 구글폼 신청 가. 구글폼 : https://tinyurl.com/27fboqwo 나. 구글폼 신청 시 신청서를 작성하여 함께 첨부 ※ 신청서 제출 시 파일명에 본인 이름 반드시 기재 5. 유의 사항 가. 항공권 발권이 완료된 이후에는 중도 포기 불가 나. 중도 포기 시 향후 AI대학에서 운영하는 모든 학생지원프로그램 참여 불가 다. 선발자는 AI대학, 소프트웨어학부, AI융합학부 홈페이지를 통해 공지될 예정이며, 향후 여권 제출등의 일정에 대한 공지도 홈페이지를 통해서 공지될 예정이니 반드시 홈페이지를 확인하시기 바랍니다. 라. AI대학에서 운영하는 해외 연수 성격의 프로그램은 재학 중 1회만 참여 가능합니다(전적학과에서 참여한 경우도 포함). 마. 연수 참가 후 사진을 첨부한 결과보고서를 1월 29일(금)까지 ai@ssu.ac.rk 로 제출",
+   "body_candidate_length": 1179,
+   "body_title_matched": false,
+   "date_hints_unverified": [
+    {
+     "date_text": "2027.01.18",
+     "context": "는 학생은 신청해주시기 바랍니다. 1. 산업시찰 상세 가. 기간 : 2027.01.18.(월) ~ 22(금) (4박5일) 나. 지역 : 중국 상해 및 항저"
+    },
+    {
+     "date_text": "1.18",
+     "context": " 등의 개인 경비는 지원하지 않음) 라. 세부 일정 일자 세부 일정 1.18(월) 인천 출발 - 항저우 도착 서호관광 및 서호유람선 청하방 옛거"
+    },
+    {
+     "date_text": "1.19",
+     "context": "천 출발 - 항저우 도착 서호관광 및 서호유람선 청하방 옛거리 관광 1.19(화) 대한민국 임시정부 항저우 청사 저장대학교 또는 항저우 전자과기"
+    },
+    {
+     "date_text": "1.20",
+     "context": "정부 항저우 청사 저장대학교 또는 항저우 전자과기대학교 캠퍼스 투어 1.20(수) 지리지커(중국 최대 민영 자동차 그룹) 수향마을 주가각 및 남"
+    },
+    {
+     "date_text": "1.21",
+     "context": "휴머노이트로봇이 일하는 DQ 아이스크림가게 외타야경 및 유람선 투어 1.21(목) 상해 디즈니랜드 1.22(금) 상하이 과학기술관 휴머노이드 현"
+    },
+    {
+     "date_text": "1.22",
+     "context": "이스크림가게 외타야경 및 유람선 투어 1.21(목) 상해 디즈니랜드 1.22(금) 상하이 과학기술관 휴머노이드 현식센터 치린 로봇 훈련장 상해 "
+    }
+   ],
+   "attachment_links_unverified": [],
+   "selector_diagnostics": [
+    {
+     "selector": ".ck-content",
+     "length": 1179,
+     "score": 51.79,
+     "title_found": false,
+     "navigation_hits": 0,
+     "excerpt": "AI대학에서 2026학년도 국제 산업 IT 시찰 참여자를 추가 모집하니 관심있는 학생은 신청해주시기 바랍니다. 1. 산업시찰 상세 가. 기간 : 2027.01.18.(월) ~ 22(금) (4박5일) 나. 지역 : 중국 상해 및 항저우 다. 지원 내역 : 연수 경비 일체(여권 발급 등의 "
+    }
+   ],
+   "html_sha256": "8f940279b3622db1aeb4c58bc84abe6c97b5674550561a8f77c70036f47a6062",
+   "manual_decision": "HOLD",
+   "reviewer_notes": "",
+   "deadline_verified": false,
+   "published_for_app": false
+  }
+ ]
+}

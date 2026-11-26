@@ -1,0 +1,1795 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-17T15:26:09.299007+09:00",
+  "notices": [
+    {
+      "id": "ssu_council:57dee65881dd7098eab7",
+      "source": "ssu_council",
+      "source_id": "57dee65881dd7098eab7",
+      "publisher": "숭실대학교 총학생회",
+      "source_type": "LINKTREE",
+      "title": "2027년도 학생회 정기선거 투표 링크",
+      "topic": "EVENT",
+      "tags": [
+        "총학생회"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ssu.ovote.net/",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "99f371785a3a86202ed2452b205e7656e5553c14bf4c3a6efae30a3dbf35cc5a",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/focussu_66th",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_council:d3b65b7b24d1420e24f6",
+      "source": "ssu_council",
+      "source_id": "d3b65b7b24d1420e24f6",
+      "publisher": "숭실대학교 총학생회",
+      "source_type": "LINKTREE",
+      "title": "선거운동본부별 비교공약자료집",
+      "topic": "EVENT",
+      "tags": [
+        "총학생회"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://drive.google.com/drive/folders/1iKKFaSXNXgxXODlyB5As0jy8qXZ_lkxt",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "ab6a36ba3b0f9ceb42f445a4f376f1c51384112ec843ce8177ef083607df561e",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/focussu_66th",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_council:c5c8aceac6a35a8ae13d",
+      "source": "ssu_council",
+      "source_id": "c5c8aceac6a35a8ae13d",
+      "publisher": "숭실대학교 총학생회",
+      "source_type": "LINKTREE",
+      "title": "선거시행세칙 및 선거세부지침서",
+      "topic": "EVENT",
+      "tags": [
+        "총학생회"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://drive.google.com/drive/folders/10EeXvh7PpZR_1noVcwVmNK1jL10AiXlh",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "cdbe42e5722d4be393d846b09b09cd25ee103a93ddaa6e2ae36662c06049d2b1",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/focussu_66th",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_council:4b1f1a01f2ff24cf3f4c",
+      "source": "ssu_council",
+      "source_id": "4b1f1a01f2ff24cf3f4c",
+      "publisher": "숭실대학교 총학생회",
+      "source_type": "LINKTREE",
+      "title": "선거시행세칙 해석 및 심사요청서 관련 추가 안내",
+      "topic": "EVENT",
+      "tags": [
+        "총학생회"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://drive.google.com/drive/folders/1Ft5ImupmnO1p9sNvmfGNPrjNBXKck8bG",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "52bf015789701d214a04b32cf253f049d99f40d4d6fbcbcf80f2622478ff0621",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/focussu_66th",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_council:5c5ffa888ce915880ce9",
+      "source": "ssu_council",
+      "source_id": "5c5ffa888ce915880ce9",
+      "publisher": "숭실대학교 총학생회",
+      "source_type": "LINKTREE",
+      "title": "2026-2학기 특별장학금 Google Drive",
+      "topic": "SCHOLARSHIP",
+      "tags": [
+        "총학생회"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://drive.google.com/drive/folders/163J9o9J8NXaCfY26zfTf6qUwIL2vnwfg",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "d18e2ec10435bbb6cc4332db42ad0639c977366de439d0d12b8a5de37c044c13",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/focussu_66th",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_ai_college:1102",
+      "source": "ssu_ai_college",
+      "source_id": "1102",
+      "publisher": "숭실대학교 AI대학",
+      "source_type": "WEB",
+      "title": "2026년 AI대학 국제 IT 산업시찰 추가 선발자 안내",
+      "topic": "OTHER",
+      "tags": [
+        "AI대학"
+      ],
+      "published_at": "2026-11-16",
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ai.ssu.ac.kr/board/notice/1102",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "2828b269ea3b637efb991c17bdb6c03b421845d69dfdfdb28539ffd028ef8df2",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://ai.ssu.ac.kr/board/notice",
+        "collection_method": "AI_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_ai_college:1101",
+      "source": "ssu_ai_college",
+      "source_id": "1101",
+      "publisher": "숭실대학교 AI대학",
+      "source_type": "WEB",
+      "title": "[2026-2학기 숭실평화통일스쿨 안내]",
+      "topic": "OTHER",
+      "tags": [
+        "AI대학"
+      ],
+      "published_at": "2026-11-12",
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ai.ssu.ac.kr/board/notice/1101",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "ddeaef4790c0b95c3ef7deaee6f11ed18988fabfc0575cdb587283336d8c25fb",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://ai.ssu.ac.kr/board/notice",
+        "collection_method": "AI_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_ai_college:1100",
+      "source": "ssu_ai_college",
+      "source_id": "1100",
+      "publisher": "숭실대학교 AI대학",
+      "source_type": "WEB",
+      "title": "[2027년 2월 졸업예정자] 졸업서류제출 안내",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "AI대학"
+      ],
+      "published_at": "2026-11-11",
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ai.ssu.ac.kr/board/notice/1100",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "7fcc80751053d0b87ed8e269b8d557d0269a90e3f6003cfd2f41c7b2d329e0f3",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://ai.ssu.ac.kr/board/notice",
+        "collection_method": "AI_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_ai_college:1099",
+      "source": "ssu_ai_college",
+      "source_id": "1099",
+      "publisher": "숭실대학교 AI대학",
+      "source_type": "WEB",
+      "title": "Cryptography for Security & Privacy 연구실(지도교수: 하진철)에서 학부연구생을 모집합니다.",
+      "topic": "CAREER",
+      "tags": [
+        "AI대학"
+      ],
+      "published_at": "2026-11-10",
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ai.ssu.ac.kr/board/notice/1099",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "2b8e73e3898b2607195204e7e0d3d60f1b5d8a6ee16e22911b2140b30df7bf89",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://ai.ssu.ac.kr/board/notice",
+        "collection_method": "AI_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_ai_college:1098",
+      "source": "ssu_ai_college",
+      "source_id": "1098",
+      "publisher": "숭실대학교 AI대학",
+      "source_type": "WEB",
+      "title": "AI대학 국제 IT 산업시찰 추가모집 안내(~11.10(화)까지)",
+      "topic": "OTHER",
+      "tags": [
+        "AI대학"
+      ],
+      "published_at": "2026-11-09",
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://ai.ssu.ac.kr/board/notice/1098",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "8c254c5725926751ed42e71b0210c298f2ec8b11c2af46f97a6f3353af256055",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://ai.ssu.ac.kr/board/notice",
+        "collection_method": "AI_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_aisw:1c331c9462e30e7e6fa9",
+      "source": "ssu_aisw",
+      "source_id": "1c331c9462e30e7e6fa9",
+      "publisher": "숭실대학교 AI소프트웨어학부 학생회",
+      "source_type": "LINKTREE",
+      "title": "도난 물품 피해자 조사 구글폼 (10. 30. 금까지)",
+      "topic": "OTHER",
+      "tags": [
+        "AI소프트웨어학부"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-17T05:29:36.538281+00:00",
+      "original_url": "https://forms.gle/QUcmJzcgh9f7qnm27",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "bf2c28b73e4e1e3e489cb743565cccd0d6ede9c275c624c4c0ee6f159e05e3aa",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://linktr.ee/aisw2026",
+        "collection_method": "LINKTREE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1679",
+      "source": "ssu_sw_official",
+      "source_id": "1679",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2027학년도 1학기 학·석사연계과정 지원 및 선발 안내(~12/11)",
+      "topic": "OTHER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-17",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1679",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "4484bc8b9f19cb3f4b7fcf13ddfc19d25e60fba561574b505d458e47bc5ab779",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1678",
+      "source": "ssu_sw_official",
+      "source_id": "1678",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2026년 AI대학 국제 IT 산업시찰(해외연수) 추가 선발자 대상자 안내",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-16",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1678",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "4bae2348e27dafcbfd8ae85e5a7780fc313b73621e6e1b627c9e4889bfc47a02",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1677",
+      "source": "ssu_sw_official",
+      "source_id": "1677",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "[2027년 2월 졸업예정자] 졸업서류제출 안내_1차(11/23~12/2까지)",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-11",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1677",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "69b14cdb870ec282594e06badb6fe7189b2b8700cf1e24c91fb2d0869cd20d6d",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1676",
+      "source": "ssu_sw_official",
+      "source_id": "1676",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "Cryptography for Security & Privacy 연구실(지도교수: 하진철)에서 학부연구생을 …",
+      "topic": "CAREER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-10",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1676",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "c5a68d0cf363e2042eb67f0db31bbadcb6abed9ef2d8cd873841ab20b888385a",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1675",
+      "source": "ssu_sw_official",
+      "source_id": "1675",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "AI대학 국제 산업IT 시찰(2026-2학기) - 추가모집(해외연수)",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-09",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1675",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "77f8217d8e07ca03ea241193eb98125b778a8f36a862cf52b9d330adf51bb1b0",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1674",
+      "source": "ssu_sw_official",
+      "source_id": "1674",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2026년 AI대학 국제 IT 산업시찰 (해외연수) 선발자 안내",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-11-05",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1674",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "71f420df1f191ded162966ef729eb9d33b27777b764a250358af55607ea10e29",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1673",
+      "source": "ssu_sw_official",
+      "source_id": "1673",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "Oracle 직접 교육 • AI 서비스 개발 인프라부터 배포 운영까지 풀패키지 교육 과정",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-10-21",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1673",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "bbbf03b2f48f2c6c2c80af0bc33ea96bea8d79e32a93ee3274041ba19a0382f5",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1671",
+      "source": "ssu_sw_official",
+      "source_id": "1671",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "AI 활용 윤리 가이드라인(교육분야) 제정 및 시행 안내",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-10-15",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1671",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "40b8f93e56d9ca21b747abe669590d369caa9fc2c30510e0596f6b5aee6cbddd",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1670",
+      "source": "ssu_sw_official",
+      "source_id": "1670",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2027학년도 신입학 수시 입시 관련 고사건물 출입통제 안내(건물 확정 안내)",
+      "topic": "OTHER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-10-15",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1670",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "f95c3eed3b45aebe6caa4d4f49924711757df8812795fb171ec6f5b3d7041875",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1663",
+      "source": "ssu_sw_official",
+      "source_id": "1663",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2026학년도 2학기 AI학업장려 학자금대출 안내",
+      "topic": "SCHOLARSHIP",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-09-01",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1663",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "7a905e68f1073ee1b8a2557c78594a75ac09261bfcc00cace5acbe41d079e9e9",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1657",
+      "source": "ssu_sw_official",
+      "source_id": "1657",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "AI소프트웨어학부 소속변경(전과) 신청 가이드",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-08-11",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1657",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "c4663211fb4cd560b8e9dbc5a334be4046bd6b33c229749834668837a9ea78bd",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1589",
+      "source": "ssu_sw_official",
+      "source_id": "1589",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "AI대학 신설 및 AI소프트웨어학부 관련 질의응답 자료 공유(교과과정 파일수정)",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2025-11-21",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1589",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "f0f46156f5ce459a6f5827716b48fc45c159e5d191bdf5e82cac67425aadbb42",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1526",
+      "source": "ssu_sw_official",
+      "source_id": "1526",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "[공지] 융합특성화자유전공학부 → 소프트웨어학부 전과자의 융합전공 및 공학인증 관련 안내",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2025-04-02",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1526",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "2e0f5d7805f7ed5710ddf1556553ee7d94f7d19c828dab01a3f55716adcab7db",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1421",
+      "source": "ssu_sw_official",
+      "source_id": "1421",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "(중요추가내용)2024학년도 입학자 교과과정 변경으로 인한 물리1및실험 수강 관련 안내",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2024-01-22",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1421",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "bb0fe2037f81cd043402f7c9ab5dd8b2d0f00cb21ee6a337dafb6dde09a3f196",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1366",
+      "source": "ssu_sw_official",
+      "source_id": "1366",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "(중요) 소프트웨어 전공졸업자격요건 중 논문 관련 공지",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2023-03-14",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1366",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "3be827d8d5b098575f810071363854a67e4708f9fd7ff003b8d54c700cb57784",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1223",
+      "source": "ssu_sw_official",
+      "source_id": "1223",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "종합설계 이수 변경사항 안내(졸업관련)",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2021-11-11",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1223",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "f527accf5e5aa7aa063ba31552e0c672af46ffc12c040cee211ee42b2ecf3852",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1189",
+      "source": "ssu_sw_official",
+      "source_id": "1189",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "(지급기준성적변경사항포함)백마성적우수장학생 선발기준 안내",
+      "topic": "SCHOLARSHIP",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2021-07-12",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1189",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "0dd3943ba6e38861e40e3e76ed57a8347cf7f2537f7009dd2526fe38e908b4e9",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1154",
+      "source": "ssu_sw_official",
+      "source_id": "1154",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "(필독!<소프트웨어학부 공학교육인증 이수를 위한 안내 및 유의사항>(종합설계 관련 수정)",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2020-12-30",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1154",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "40cee8201469ab2b6e2e389aadc68cd44e3d0166a15953ee6204f38ca4591cab",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1079",
+      "source": "ssu_sw_official",
+      "source_id": "1079",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2020 융합전공 이수구분 인정 관련",
+      "topic": "OTHER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2020-01-08",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1079",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "ee89baa6376f34eed3bd41172f7ea5d842813457b157e3e6ff5f3ed4b984c7ff",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1061",
+      "source": "ssu_sw_official",
+      "source_id": "1061",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "학부연구생 모집 공고",
+      "topic": "CAREER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2019-12-02",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1061",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "34e030f7a30fe2fafe84b8fd40b69c792e020db24f08b29ffd8663d3f2c826cc",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:872",
+      "source": "ssu_sw_official",
+      "source_id": "872",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "2023학년도 융합전공 교과과정 안내(빅데이터, 정보보호)",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2019-01-24",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=872",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "aa07eb34c3402bfd100c5fbbfcd4a06ce8f62757bea238f14e2637946edc954c",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:868",
+      "source": "ssu_sw_official",
+      "source_id": "868",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "(교과과정파일추가)소프트웨어학부 2015-2020학년도 입학자 교과과정 변경(안) 공지",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2019-01-03",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=868",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "a956c1c9827ba75bbd0d16432208c1a189db02247e74164ccd61a8bfb9d710a5",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:858",
+      "source": "ssu_sw_official",
+      "source_id": "858",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "소프트웨어학부 졸업요건 안내(졸업학점,영어요건,전공자격요건 변경)",
+      "topic": "STUDENT_WELFARE",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2018-12-07",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=858",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "661ffcc1844f99f7f63770b73824a5e342e4e25d2adcdcd1bb54af579748d082",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1672",
+      "source": "ssu_sw_official",
+      "source_id": "1672",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "AI대학 국제 산업IT 시찰(2026-2학기) 해외연수 신청",
+      "topic": "PROGRAM",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-10-21",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1672",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "e68099d7ca17a20c3db5e22141b64820d07d63d93f541d3b3e908348a3b0a88d",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    },
+    {
+      "id": "ssu_sw_official:1669",
+      "source": "ssu_sw_official",
+      "source_id": "1669",
+      "publisher": "숭실대학교 소프트웨어학부",
+      "source_type": "WEB",
+      "title": "26-2학기 Tmax드림실 프로젝트 공간 입주신청",
+      "topic": "OTHER",
+      "tags": [
+        "소프트웨어학부"
+      ],
+      "published_at": "2026-10-07",
+      "collected_at": "2026-11-17T14:45:29.597179+09:00",
+      "original_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1669",
+      "apply_url": null,
+      "content_kind": "LINK",
+      "body": null,
+      "summary": null,
+      "deadline_status": "NEEDS_REVIEW",
+      "deadlines": [],
+      "eligibility": {
+        "scope": "UNKNOWN",
+        "nationality": "UNKNOWN",
+        "min_age": null,
+        "max_age": null,
+        "regions": null,
+        "majors": null,
+        "grades": null,
+        "employment_status": null,
+        "raw_text": null,
+        "other_conditions": []
+      },
+      "events": [],
+      "attachments": [],
+      "verification": {
+        "status": "UNVERIFIED",
+        "evidence": [],
+        "reviewed_at": null
+      },
+      "content_hash": "decc6d05b3c1ec2b594772dd6af433247ea619c6c5ea58184f08b1a3420ad39a",
+      "version": 1,
+      "duplicate_of": null,
+      "extra": {
+        "listing_url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice",
+        "collection_method": "SW_OFFICIAL_NOTICE",
+        "requires_manual_review": true,
+        "deadline_not_verified": true,
+        "body_not_fetched": true
+      }
+    }
+  ]
+}

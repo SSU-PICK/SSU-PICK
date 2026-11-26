@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 기본 앱 테마 -->
+    <style name="Base.Theme.SSUPICK"
+        parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.SSUPICK"
+        parent="Base.Theme.SSUPICK" />
+
+
+    <!-- Splash 테마 -->
+    <style name="Theme.SSUPICK.Splash"
+        parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">
+            @color/ssu_blue
+        </item>
+
+        <item name="windowSplashScreenAnimatedIcon">
+            @drawable/splash_logo
+        </item>
+
+        <item name="postSplashScreenTheme">
+            @style/Theme.SSUPICK
+        </item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:fitsSystemWindows="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- 로고 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SSU:PICK"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <!-- 제목 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="받아볼 정보 출처를\n선택해주세요"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="선택한 출처의 공지를 한곳에서 확인할 수 있어요."
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+
+        <!-- 교내 정보 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="교내 정보"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#555555"/>
+
+
+        <!-- 슈캐치 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkSsuCatch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="슈캐치"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 잡슈 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkJobSsu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="잡슈"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- AI대학 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkAiCollege"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="AI대학"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- SW학부 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkSwOfficial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="SW학부"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 총학생회 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkCouncil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="총학생회"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- AI·SW 학생회 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkAisw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="AI·SW 학생회"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 교외 정보 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="교외 정보"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#555555"/>
+
+
+        <!-- LH -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkLh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="LH"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 마이홈 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkMyhome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="마이홈"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 온통청년 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkOntongYouth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="온통청년"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 청년몽땅정보통 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <CheckBox
+                android:id="@+id/checkYouthMongddang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="18dp"
+                android:text="청년몽땅정보통"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:checked="true"/>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 안내 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="출처는 나중에 설정에서 언제든 변경할 수 있습니다."
+            android:textSize="13sp"
+            android:textColor="#888888"/>
+
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="40dp"/>
+
+
+        <!-- 다음 버튼 -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginBottom="24dp"
+            android:text="다음"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#3767E8"
+            app:cornerRadius="16dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

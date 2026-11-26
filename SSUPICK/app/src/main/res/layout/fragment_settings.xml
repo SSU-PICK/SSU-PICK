@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="설정"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <!-- 내 정보 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="내 맞춤 정보"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp">
+
+                <TextView
+                    android:id="@+id/tvProfileSummary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="프로필 정보"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#222222"/>
+
+                <TextView
+                    android:id="@+id/tvInterestSummary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="관심분야"
+                    android:textSize="14sp"
+                    android:textColor="#666666"/>
+
+                <TextView
+                    android:id="@+id/tvSourceSummary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="선택 출처"
+                    android:textSize="14sp"
+                    android:textColor="#666666"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnEditPersonalization"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginTop="12dp"
+            android:text="맞춤 설정 다시 하기"
+            android:textSize="15sp"
+            android:textColor="#3767E8"
+            app:backgroundTint="#FFFFFF"
+            app:strokeColor="#3767E8"
+            app:strokeWidth="1dp"
+            app:cornerRadius="14dp"/>
+
+
+        <!-- 알림 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="알림"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- 마감 알림 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="18dp">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="마감 알림"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:textColor="#222222"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="D-7 · D-3 · D-1 알림"
+                            android:textSize="13sp"
+                            android:textColor="#777777"/>
+
+                    </LinearLayout>
+
+                    <com.google.android.material.switchmaterial.SwitchMaterial
+                        android:id="@+id/switchDeadline"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginHorizontal="18dp"
+                    android:background="#EEEEEE"/>
+
+
+                <!-- 추천 알림 -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="18dp">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="맞춤 추천 알림"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:textColor="#222222"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="관련도 높은 새 공지를 알려드려요."
+                            android:textSize="13sp"
+                            android:textColor="#777777"/>
+
+                    </LinearLayout>
+
+                    <com.google.android.material.switchmaterial.SwitchMaterial
+                        android:id="@+id/switchRecommendation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnTestNotification"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="12dp"
+            android:text="테스트 알림 보내기"
+            android:textSize="15sp"
+            android:textColor="#3767E8"
+            app:backgroundTint="#FFFFFF"
+            app:strokeColor="#3767E8"
+            app:strokeWidth="1dp"
+            app:cornerRadius="14dp"/>
+
+
+        <!-- 앱 정보 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="앱 정보"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="30dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SSU:PICK"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#222222"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="숭실대생을 위한 맞춤형 혜택·공지 통합 서비스"
+                    android:textSize="13sp"
+                    android:textColor="#777777"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+
+</ScrollView>

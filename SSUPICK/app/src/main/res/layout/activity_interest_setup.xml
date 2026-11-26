@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:fitsSystemWindows="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+
+        <!-- 로고 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SSU:PICK"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+
+        <!-- 제목 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="관심 있는 분야를\n선택해주세요"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:lineSpacingExtra="4dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="선택한 분야를 기준으로 맞춤 공지를 추천해드려요."
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+
+        <!-- 관심분야 -->
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/interestChipGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            app:singleSelection="false"
+            app:selectionRequired="false"
+            app:chipSpacingHorizontal="8dp"
+            app:chipSpacingVertical="8dp">
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipScholarship"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="장학"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipAcademic"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="학사"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipEmployment"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="채용·인턴"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipPartTime"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="아르바이트"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipExtra"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="비교과·프로그램"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipExchange"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="해외·교환"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipVolunteer"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="봉사"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipContest"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="공모전·대외활동"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipInternational"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="유학생"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipTeacher"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="교원채용"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipHousing"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="주거"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipYouth"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="청년지원"
+                android:checkable="true"/>
+
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipEtc"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="기타"
+                android:checkable="true"/>
+
+        </com.google.android.material.chip.ChipGroup>
+
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="다음"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#3767E8"
+            app:cornerRadius="16dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

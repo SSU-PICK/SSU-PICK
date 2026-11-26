@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:background="#F7F7F9">
+
+    <!-- 상단 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingStart="20dp"
+        android:paddingTop="18dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="8dp">
+
+        <TextView
+            android:id="@+id/tvBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="←"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:padding="4dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:text="전체 혜택"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="14dp"
+        android:text="추천 조건과 관계없이 모든 공지를 확인할 수 있습니다."
+        android:textSize="13sp"
+        android:textColor="#777777"/>
+
+
+    <!-- 카테고리 -->
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp">
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/categoryChipGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:singleLine="true"
+            app:singleSelection="true"
+            app:selectionRequired="true"
+            app:chipSpacingHorizontal="8dp">
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipAll"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="전체"
+                android:checked="true"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="장학"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="학사"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="채용·인턴"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="아르바이트"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="비교과·프로그램"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="해외·교환"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="봉사"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="공모전·대외활동"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="유학생"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="교원채용"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="주거"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="청년지원"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="기타"
+                android:checkable="true"/>
+
+        </com.google.android.material.chip.ChipGroup>
+
+    </HorizontalScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="모집 상태"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:scrollbars="none">
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/statusChipGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:singleSelection="true"
+            app:selectionRequired="true">
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipStatusAll"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="전체"
+                android:checked="true"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipStatusOpen"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="모집중"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipStatusUrgent"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="마감임박"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipStatusExpired"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="마감"/>
+
+        </com.google.android.material.chip.ChipGroup>
+
+    </HorizontalScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="정렬"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/sortChipGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        app:singleSelection="true"
+        app:selectionRequired="true"
+        app:chipSpacingHorizontal="8dp">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSortRecommend"
+            style="@style/Widget.Material3.Chip.Filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="추천순"
+            android:checked="true"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSortDeadline"
+            style="@style/Widget.Material3.Chip.Filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="마감순"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSortLatest"
+            style="@style/Widget.Material3.Chip.Filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="최신순"/>
+
+    </com.google.android.material.chip.ChipGroup>
+
+
+    <!-- 로딩 -->
+    <ProgressBar
+        android:id="@+id/progressLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"/>
+
+
+    <!-- 공지 없음 -->
+    <TextView
+        android:id="@+id/tvEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="해당 카테고리의 공지가 없습니다."
+        android:textSize="15sp"
+        android:textColor="#999999"
+        android:visibility="gone"/>
+
+
+    <!-- 실제 공지 목록 -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAllNotices"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingStart="20dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="20dp"
+        android:clipToPadding="false"/>
+
+</LinearLayout>

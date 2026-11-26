@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:fitsSystemWindows="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+
+        <!-- 로고 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SSU:PICK"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+
+        <!-- 제목 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="중요한 혜택과 마감을\n놓치지 마세요"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:lineSpacingExtra="4dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="원하는 알림만 선택해서 받을 수 있어요."
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+
+        <!-- 마감 알림 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="#E5E5E5"
+            app:strokeWidth="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp">
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/switchDeadline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="마감 알림"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:textColor="#222222"
+                    android:checked="true"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="관심등록한 공지의 마감일을 알려드려요."
+                    android:textSize="14sp"
+                    android:textColor="#777777"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="D-7  ·  D-3  ·  D-1"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:textColor="#3767E8"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <!-- 추천 알림 -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="0dp"
+            app:strokeColor="#E5E5E5"
+            app:strokeWidth="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp">
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/switchRecommendation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="맞춤 추천 알림"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:textColor="#222222"
+                    android:checked="true"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="내 관심분야와 조건에 잘 맞는 새 공지가 등록되면 알려드려요."
+                    android:textSize="14sp"
+                    android:textColor="#777777"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+
+        <!-- 시작 / 저장 -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="40dp"
+            android:text="SSU:PICK 시작하기"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#3767E8"
+            app:cornerRadius="16dp"/>
+
+
+        <TextView
+            android:id="@+id/tvSkip"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center"
+            android:text="알림 없이 시작하기"
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+    </LinearLayout>
+
+</ScrollView>

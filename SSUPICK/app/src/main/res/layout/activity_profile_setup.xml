@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:fillViewport="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- 로고 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SSU:PICK"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <!-- 제목 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="맞춤 정보를 위해\n기본 정보를 알려주세요"
+            android:textSize="27sp"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:lineSpacingExtra="4dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="입력한 정보는 맞춤 공지 추천에 활용됩니다."
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="닉네임"
+                android:inputType="textPersonName"
+                android:maxLines="1"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <!-- 학과 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="42dp"
+            android:text="학과"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <Spinner
+            android:id="@+id/spinnerMajor"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:paddingHorizontal="12dp"/>
+
+
+        <!-- 학년 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="학년"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/gradeChipGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:singleSelection="true"
+            app:selectionRequired="true"
+            app:chipSpacingHorizontal="8dp">
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipGrade1"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1학년"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipGrade2"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2학년"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipGrade3"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3학년"
+                android:checkable="true"/>
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipGrade4"
+                style="@style/Widget.Material3.Chip.Filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4학년"
+                android:checkable="true"/>
+
+        </com.google.android.material.chip.ChipGroup>
+        <!-- 나이 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="나이"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editAge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="만 나이"
+                android:inputType="number"
+                android:maxLines="1"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="공고의 연령 조건과 비교하기 위해 만 나이를 입력해주세요."
+            android:textSize="12sp"
+            android:textColor="#888888"/>
+
+
+        <!-- 학적 상태 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="학적 상태"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <Spinner
+            android:id="@+id/spinnerStatus"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:paddingHorizontal="12dp"/>
+
+
+        <!-- 거주지역 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="거주 지역"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <Spinner
+            android:id="@+id/spinnerRegion"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/editbox_background"
+            android:paddingHorizontal="12dp"/>
+
+
+        <!-- 남는 공간 -->
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+
+        <!-- 다음 버튼 -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="다음"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#3767E8"
+            app:cornerRadius="16dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

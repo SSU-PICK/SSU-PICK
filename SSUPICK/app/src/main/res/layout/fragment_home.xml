@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#F7F7F9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- 상단 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="SSU:PICK"
+                android:textSize="26sp"
+                android:textStyle="bold"
+                android:textColor="#1F1F1F"/>
+
+            <TextView
+                android:id="@+id/tvAllNotice"
+                android:layout_width="84dp"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="전체보기 >"
+                android:textColor="#555555"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <!-- 사용자 정보 -->
+
+        <TextView
+            android:id="@+id/tvGreeting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="안녕하세요"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <TextView
+            android:id="@+id/tvProfileInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="프로필 정보"
+            android:textSize="14sp"
+            android:textColor="#777777"/>
+
+        <!-- 마감 임박 -->
+        <TextView
+            android:id="@+id/tvUrgentSectionTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="곧 마감돼요"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardUrgentNotice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="2dp"
+            app:strokeWidth="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="18dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tvUrgentSource"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="출처"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        android:textColor="#5E35B1"/>
+
+                    <TextView
+                        android:id="@+id/tvUrgentDeadline"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="D-2"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:textColor="#D32F2F"/>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvUrgentTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:text="공지 제목"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="#202020"/>
+
+                <TextView
+                    android:id="@+id/tvUrgentTopic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="카테고리"
+                    android:textSize="13sp"
+                    android:textColor="#777777"/>
+
+                <TextView
+                    android:id="@+id/tvUrgentScore"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:gravity="end"
+                    android:text="95% 일치"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#5E35B1"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- 추천 -->
+        <TextView
+            android:id="@+id/tvRecommendationTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="맞춤 추천"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:textColor="#222222"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerNotices"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:nestedScrollingEnabled="false"/>
+
+        </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.db
+step3_notices.json
+job_notices.json
+program_notices.json
+step4_results.json
+archive_*.json
+feed.json
+common_notices.json
+lab_pulled.json
+external/pg_data/*_live.json
+external/pg_data/.live_last_ok
+external/inbox/pg_*.json
+site_notices.json
+raw_site_*.html
